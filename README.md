@@ -1,0 +1,2 @@
+# Oyun-yaparyuk
+Mobil-oyun
