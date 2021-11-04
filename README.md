@@ -1,2 +1,2 @@
-# Oyun-yaparyuk
-Mobil-oyun
+# Oyun pixel artları
+
